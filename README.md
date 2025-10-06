@@ -1,95 +1,92 @@
-<h1 align="center">Hey there 👋, I'm IuseKaliBTW</h1>
-<h3 align="center">Cybersecurity Enthusiast | Aspiring Web Developer | Linux User</h3>
+<h1 align="center">Hey there, I'm Sahil 👋</h1>
+<h3 align="center">A Passionate Developer Building Things for the Web</h3>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26size%3D22%26duration%3D4000%26pause%3D1000%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DAspiring%2BFull-Stack%2BDeveloper%3BCybersecurity%2B%2526%2BPentesting%3BKali%2BLinux%2BAficionado%3BHTML%2B%257C%2BCSS%2B%257C%2BJavaScript%2B%257C%2BBash%3BSecuring%2Bthe%2Bweb%252C%2Bone%2Bline%2Bat%2Ba%2Btime+🐧" alt="Typing SVG" />
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26size%3D22%26duration%3D4000%26pause%3D1000%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DFront-End%2BDeveloper%2Bin%2BTraining%3BTurning%2BCoffee%2Binto%2BCode%3BReact%2B%257C%2BJavaScript%2B%257C%2BHTML%2B%257C%2BCSS%3BExplorer%2Bof%2BAll%2BThings%2BTech+🚀;Building+the+web%2C+one+component+at+a+time" alt="Typing SVG" />
 </p>
 
 👨‍💻 About Me
-🔭 I’m currently focused on learning the fundamentals of Web Development.
+🔭 I’m currently focused on mastering Front-End Development.
 
-🌱 Diving deep into HTML, CSS, and JavaScript.
+🌱 I'm learning React and the art of building beautiful, responsive user interfaces.
 
-💡 Big fan of sleek, minimalist terminal setups and open-source software.
+💡 I love clean code, creative problem-solving, and a perfectly configured VS Code setup.
 
-🐧 Passionate about the power of the command line.
+🎮 When I'm not coding, I'm probably exploring new tech or diving into a good video game.
 
-🎯 Goal: Master the basics and build secure, functional web applications.
+🎯 My goal is to transform ideas into reality through code and never stop learning.
 
 🛠️ My Tech Toolbox
 <p align="center">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml,css,js,bash,linux,kali,vscode,github,git%26theme%3Ddark" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml,css,js,react,tailwind,bootstrap,linux,vscode,figma,github,git%26theme%3Dlight" />
 </p>
 
 📈 GitHub Stats & Streaks
-<!-- Replace "IuseKaliBTW" with your GitHub username if it's different -->
+<!-- Replace "saahil" with your actual GitHub username -->
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DIuseKaliBTW%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DIuseKaliBTW%26layout%3Dcompact%26hide_border%3Dtrue%26theme%3Dtokyonight" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dsaahil%26show_icons%3Dtrue%26theme%3Dmerko%26hide_border%3Dtrue" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dsaahil%26layout%3Dcompact%26hide_border%3Dtrue%26theme%3Dmerko" />
 </p>
 
 📊 Contribution Activity
-<!-- Replace "IuseKaliBTW" with your GitHub username if it's different -->
+<!-- Replace "saahil" with your actual GitHub username -->
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DIuseKaliBTW%26theme%3Dtokyonight%26hide_border%3Dtrue%26area%3Dtrue" />
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dsaahil%26theme%3Dreact-dark%26hide_border%3Dtrue%26area%3Dtrue" />
 </p>
 
 🚀 Currently Working On
-✨ Learning the core principles of HTML & CSS.
+✨ Honing my skills in React and modern JavaScript (ES6+).
 
-💼 Building my first static websites from scratch.
+💼 Building a personal portfolio to showcase my projects.
 
-🔐 Exploring web security concepts alongside my development journey.
+🎨 Experimenting with Tailwind CSS and CSS animations.
 
-📈 Setting up and customizing my Linux development environment.
+📈 Learning about state management and component lifecycle.
 
-🎯 2025 Goals
-⚡ Build my first dynamic project with JavaScript.
+🎯 My Next Goals
+⚡ Build and deploy a full-stack MERN application.
 
-🐧 Become proficient with the Linux command line & Bash scripting.
+💻 Get comfortable with a Linux-based development workflow.
 
-🔐 Understand common web vulnerabilities like XSS and CSRF.
+🤝 Contribute to an open-source project.
 
-🤝 Make my first contribution to an open-source project.
+📚 Master Data Structures and Algorithms with JavaScript.
 
-🚀 Build a portfolio of small but solid web projects.
+🚀 Land my first role as a junior web developer.
 
-📚 Start learning a backend language like Node.js or Python.
-
-📫 Connect with Me
+📫 Let's Connect!
 <!-- Add your actual links here -->
 
 <p align="center">
-<a href="https://www.google.com/search?q=https://github.com/IuseKaliBTW" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/saahil" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:youremail@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="#" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/-Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" /></a>
 </p>
 
-💡 Dev Quote of the Day
-“Talk is cheap. Show me the code.” – Linus Torvalds
+💡 Favorite Quote
+"The best way to predict the future is to create it." – Abraham Lincoln
 
 🔥 Profile Visitors
-<!-- Replace "IuseKaliBTW" with your GitHub username if it's different -->
+<!-- Replace "saahil" with your actual GitHub username -->
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DIuseKaliBTW%26label%3DProfile%2BVisitors%26color%3D0e75b6%26style%3Dflat" />
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dsaahil%26label%3DProfile%2BVisitors%26color%3D0e75b6%26style%3Dflat" />
 </p>
 
-⚡ Fun Facts About Me
-🐧 sudo is my most-used command.
+⚡ Fun Facts
+🎨 My quest for the perfect VS Code theme is a journey, not a destination.
 
-💻 My favorite color is terminal green.
+☕ I believe console.log() is the most powerful debugging tool in the universe.
 
-🔐 I'm learning to build the web that I'll one day learn to break.
+🧠 I think in <div>s and dream in flexbox.
 
-👨‍💻 I probably have more terminals open than browser tabs.
+🐞 I've spent hours hunting a bug, only to find it was a single misplaced semicolon.
 
-🏆 My goal is to make my <h1> tags more secure than my root password.
-
-🎯 I believe in two things: root access and clean code.
+🏆 My greatest achievement is perfectly centering a div on the first try (it happened once).
 
 <p align="center">
-Crafted with <g-emoji class="g-emoji" alias="heart" fallback-src="https://www.google.com/search?q=https://github.githubassets.com/images/icons/emoji/unicode/2764.png">💙</g-emoji> by <strong>IuseKaliBTW</strong>
+Crafted with ❤️ by <strong>Sahil</strong>
 </p>
